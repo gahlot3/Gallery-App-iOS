@@ -9,8 +9,10 @@ Features Google Sign-In, paginated online images, offline access, and a profile 
 ## Setup 
 1. Clone the repo.
 2. Add GoogleSignIn via Swift Package Manager.
-3. Set up Google credentials.
-4.  Build and run in Xcode 15+.
+   https://github.com/google/GoogleSignIn-iOS.git
+   
+4. Set up Google credentials.
+5.  Build and run in Xcode 15+.
  ## Structure - 
  `AuthSignInSignUpVM.swift`: Auth logic 
  - `GalleryImage.swift`: Image model
